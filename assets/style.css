@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Page_1 {
+    width: 800px;
+    max-width: 80%;
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 0 10px 2px;
+
+}
+
+.Header_page1 {
+    font-weight: bolder;
+    font-size: 200%;
+}
+
+.short-directions {
+    display: flex;
+    justify-content: center;
+} 
+
+
+.Page_2, .Page_3, .Page_4, .Page_5, .Page_6 {
+    display: none;
+}
