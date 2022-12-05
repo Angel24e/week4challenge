@@ -10,7 +10,7 @@
     border-radius: 5px;
     padding: 10px;
     box-shadow: 0 0 10px 2px;
-
+    margin: auto;
 }
 
 .Header_page1 {
@@ -24,6 +24,20 @@
 } 
 
 
-.Page_2, .Page_3, .Page_4, .Page_5, .Page_6 {
+.Page_2, .Page_3, .Page_4, .Page_5, .Page_6, .Page_7 {
+    width: 800px;
+    max-width: 80%;
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 0 10px 2px;
+    margin: auto;
+}
+
+.hidden {
     display: none;
+}
+
+#body {
+
 }
